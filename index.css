@@ -20,8 +20,13 @@ p{
     margin-bottom: 10px;
 }
 
+.channel-picture{
+    
+}
+
 .video-info{
     font-size: 250px;
+    display: inline-block;
 }
 .video-preview{
     width: 300px;
@@ -38,6 +43,7 @@ p{
 .profile-picture{
     width: 40px;
     border-radius: 50px;
+    display: inline-block;
 }
 .thumbnail-row{
     margin-bottom: 12px;
